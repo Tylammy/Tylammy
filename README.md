@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @Tylammy
-- 👀 I’m interested in code!!!
+hi hi hi christy here!
 
 <!---
 Tylammy/Tylammy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
