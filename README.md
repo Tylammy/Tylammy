@@ -9,7 +9,7 @@ I'm a third-year Computer Science major at Georgia State University. I'm passion
 - **Problem-solver**: I love turning chaotic systems into clean, efficient workflows—whether it’s scheduling tools or civic engagement platforms.
 - **Civic tech meets code**: I build things that help people organize—from campaign websites to voter guides.
 - **Media nerd**: I’ve filmed football games, coded backend systems, and edited political TikToks with over 2 million views.
-- **Creative at heart**: I once composed music for my own animated short film 🎬
+- **Creative at heart**: I once composed music for my own animated short film
 
 ---
 
@@ -23,9 +23,9 @@ I'm a third-year Computer Science major at Georgia State University. I'm passion
 
 ## Projects
 
-- **Employee Management System** — Java + MySQL-based admin dashboard with secure login and salary management  
-- **Hong Kong Protest Website** — A digital storytelling site preserving protest art, history, and resistance in an interactive, accessible format
-- **EcoEdge-AI** — Research project on low-energy neural networks for edge devices and sustainability
+- [**Employee Management System**](https://github.com/Tylammy/employee-webapp) — Java + MySQL-based admin dashboard with secure login and salary management  
+- [**Hong Kong Protest Website**](https://github.com/Tylammy/HongKongProtest) — A digital storytelling site preserving protest art, history, and resistance in an interactive, accessible format
+- [**EcoEdge-AI**](https://github.com/Tylammy/ecoedge-ai) — Research project on low-energy neural networks for edge devices and sustainability
 
 ---
 
