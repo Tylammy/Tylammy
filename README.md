@@ -1,6 +1,6 @@
 # Hi, I’m Christy Lam!
 
-I'm a third-year Computer Science major at Georgia State University. I'm passionate about tech, public service, and building tools that empower communities! I'm currently a camera operator & broadcast engineer for GSU’s Production Network. I believe in using code, creativity, and community to drive impact
+I'm a third-year Computer Science major at Georgia State University. I'm passionate about tech, public service, and building tools that empower communities! I'm currently a camera operator & broadcast engineer for GSU’s Production Network. I believe in using code, creativity, and community to drive impact.
 
 ---
 
