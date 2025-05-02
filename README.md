@@ -25,8 +25,6 @@ I'm a third-year Computer Science major at Georgia State University. I'm passion
 
 - [**Employee Management System**](https://github.com/Tylammy/employee-webapp) — Java + MySQL-based admin dashboard with secure login and salary management  
 - [**Hong Kong Protest Website**](https://github.com/Tylammy/HongKongProtest) — A digital storytelling site preserving protest art, history, and resistance in an interactive, accessible format
-- [**EcoEdge-AI**](https://github.com/Tylammy/ecoedge-ai) — Research project on low-energy neural networks for edge devices and sustainability
-
 ---
 
 ## Let’s Connect!
